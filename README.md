@@ -8,6 +8,6 @@ To jump to my results click [here](https://github.com/ltbatis/sensor-logs-proces
   In the following path of Google Drive:
   - MyDrive/Sharing/shape_data/
 
-  No open the Notebook on [Google Colab](https://colab.research.google.com/) and have fun.
+  Now open the [Notebook](https://github.com/ltbatis/sensor-logs-processing/blob/main/src/shape_tech_test.ipynb) on [Google Colab](https://colab.research.google.com/) and have fun.
 
 
